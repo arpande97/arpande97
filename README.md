@@ -9,6 +9,9 @@
 - 🤔 I’m looking for help with finding internships/ full time offers and enhance my profile.
 - 📫 How to reach me: Drop me an email: apande1@student.gsu.edu
 
+- UPDATE: I got my AWS Certified Cloud Practitioner certification: https://www.credly.com/badges/8593c66e-a404-4e6d-9206-948cd07a1d7b/linked_in_profile
+- UPDATE: I attained CKAD: Certified Kubernetes Application Developer certification on June 30, 2024: https://www.credly.com/badges/f807e32c-ec12-4b95-b38d-c86c3d2fbc0b/public_url
+
 
 
 
