@@ -11,6 +11,7 @@
 
 - UPDATE: I got my AWS Certified Cloud Practitioner certification: https://www.credly.com/badges/8593c66e-a404-4e6d-9206-948cd07a1d7b/linked_in_profile
 - UPDATE: I attained CKAD: Certified Kubernetes Application Developer certification on June 30, 2024: https://www.credly.com/badges/f807e32c-ec12-4b95-b38d-c86c3d2fbc0b/public_url
+- UPDATE: I got AWS Certified Developer-Associate certified on November 3, 2024: https://www.credly.com/badges/6b96fae2-52b6-45a6-9570-3492c5a840f5
 
 
 
