@@ -31,8 +31,9 @@
 
 
 # Professional Certifications
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="70" height="70"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original-wordmark.svg" title="AWS" alt="AWS" width="70" height="70"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS Certified Developer - Associate" alt="AWS Certified Developer - Associate" width="70" height="70"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS Certified Cloud Practitioner" alt="AWS Certified Cloud Practitioner" width="70" height="70"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original-wordmark.svg" title="Certified Kubernetes Application Developer by The Linux Foundation" alt="Certified Kubernetes Application Developer by The Linux Foundation" width="70" height="70"/>&nbsp;
 
 
 # Skills
