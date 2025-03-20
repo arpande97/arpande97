@@ -17,7 +17,6 @@
 - Check out my portfolio as well while you're here: https://arpande97.github.io/PersonalWebsite/
 - 🌱 I’m currently preparing for a AWS certification and you can check out a project I did while trying to practice that. Check it out: https://github.com/arpande97/ConsistentHashing
 - 👯 I’m looking to collaborate and look for any Software Development projects that will make me learn something new.
-- 🤔 I’m looking for help with finding internships/ full time offers and enhance my profile.
 - 📫 How to reach me: Drop me an email: apande1@student.gsu.edu
 
 - UPDATE: I got my AWS Certified Cloud Practitioner certification: https://www.credly.com/badges/8593c66e-a404-4e6d-9206-948cd07a1d7b/linked_in_profile
@@ -25,7 +24,11 @@
 - UPDATE: I got AWS Certified Developer-Associate certified on November 3, 2024: https://www.credly.com/badges/6b96fae2-52b6-45a6-9570-3492c5a840f5
 
 
-
+# Articles
+<a href="https://architpande888.medium.com/using-ollama-docker-to-deploy-your-llms-for-gpu-memory-management-04a1818b1a5f"><img src="images/ollama.png" title="GPU Memory Management via Ollama" alt="GPU Memory Management via Ollama" width="120" height="120"/></a>
+<a href="https://architpande888.medium.com/aws-ssm-session-manager-why-not-ssh-d35d45d88bf0"><img src="images/ssh.png" title="AWS SSM Session Manager..why not SSH?" alt="AWS SSM Session Manager..why not SSH?" width="120" height="120"/></a>
+<a href="https://architpande888.medium.com/understanding-digit-dynamic-programming-5ef2c3644bf4"><img src="images/dp.png" title="Digit Dynamic Programming" alt="Digit Dynamic Programming" width="120" height="120"/></a>
+<a href="https://architpande888.medium.com/load-testing-using-grafana-k6-0a4a3bf17df8"><img src="images/k6.png" title="Load Testing via k6" alt="Load Testing via k6" width="120" height="120"/></a>
 
 
 
