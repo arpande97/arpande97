@@ -7,9 +7,10 @@
 
 - Check out my LinkedIn:
 <a href="https://www.linkedin.com/in/architpande/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Archit Pande | LinkedIn" width="42px"/></a>
+<br>
 - Check out my articles on Medium:
 <a href="https://architpande888.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Archit Pande | Medium" width="42px"/></a>
-
+<br>
 - Check out my portfolio as well while you're here: https://arpande97.github.io/PersonalWebsite/
 - 🌱 I’m currently preparing for a AWS certification and you can check out a project I did while trying to practice that. Check it out: https://github.com/arpande97/ConsistentHashing
 - 👯 I’m looking to collaborate and look for any Software Development projects that will make me learn something new.
