@@ -7,12 +7,12 @@
 
 - **Check out my LinkedIn:**  
   <a href="https://www.linkedin.com/in/architpande/">
-    <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" width="42px"/>
+    <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" width="100px"/>
   </a>  
 
-- **Check out my Medium:**  
+- **Check out my articles on Medium:**  
   <a href="https://architpande888.medium.com/">
-    <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" width="42px"/>
+    <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" width="100px"/>
   </a>
 - Check out my portfolio as well while you're here: https://arpande97.github.io/PersonalWebsite/
 - 🌱 I’m currently preparing for a AWS certification and you can check out a project I did while trying to practice that. Check it out: https://github.com/arpande97/ConsistentHashing
