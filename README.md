@@ -5,17 +5,11 @@
 - 🔭 I’m currently working on pipelines to deploy LLMs to work as an anxiety chatbot. I've learned Python and Flask as new skills (I'm a Java developer) doing this while gaining more expertise in Kafka, Elasticsearch, Docker. I would love to showcase the codebase for this project one day but as of now, it is part of my work as a Graduate Research Assistant: Software Developer at Georgia State University, and hence confidential.
 - As a personal project, I am working on Riplcode, a debugging platform where users need to find the root cause analysis of a particular bug in the system to solve a question. Idealized four scenarios so far, including Kafka container crashing due to a buggy code. I envision it to complement Leetcode style interviews in future. Check out the progress so far: https://github.com/arpande97/debug.io
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/architpande/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-- Check out the articles I wrote on Medium:
-<div id="badges">
-  <a href="https://architpande888.medium.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+
+<a href="https://www.linkedin.com/in/architpande/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Archit Pande | LinkedIn" width="21px"/></a>
+
+<a href="https://architpande888.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Archit Pande | Medium" width="21px"/></a>
+
 - Check out my portfolio as well while you're here: https://arpande97.github.io/PersonalWebsite/
 - 🌱 I’m currently preparing for a AWS certification and you can check out a project I did while trying to practice that. Check it out: https://github.com/arpande97/ConsistentHashing
 - 👯 I’m looking to collaborate and look for any Software Development projects that will make me learn something new.
