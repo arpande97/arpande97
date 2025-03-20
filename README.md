@@ -12,7 +12,8 @@
 
 - **Check out my articles on Medium:**  
   <a href="https://architpande888.medium.com/">
-    <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" width="100px"/>
+    <img src="https://github.com/Medium/medium-logos/blob/master/01_Logo/02_White/PNG/RGB/Medium-Logo-White-RGB%401x.png" width="100px"/>
+    <img src="" width="100px"/>
   </a>
 - Check out my portfolio as well while you're here: https://arpande97.github.io/PersonalWebsite/
 - 🌱 I’m currently preparing for a AWS certification and you can check out a project I did while trying to practice that. Check it out: https://github.com/arpande97/ConsistentHashing
