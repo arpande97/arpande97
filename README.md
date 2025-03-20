@@ -31,7 +31,9 @@
 
 
 # Professional Certifications
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS Certified Developer - Associate" alt="AWS Certified Developer - Associate" width="70" height="70"/>&nbsp;
+<a href="https://www.credly.com/badges/6b96fae2-52b6-45a6-9570-3492c5a840f5">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS Certified           Developer - Associate" alt="AWS Certified Developer - Associate" width="70" height="70"/>
+</a>
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS Certified Cloud Practitioner" alt="AWS Certified Cloud Practitioner" width="70" height="70"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original-wordmark.svg" title="Certified Kubernetes Application Developer by The Linux Foundation" alt="Certified Kubernetes Application Developer by The Linux Foundation" width="70" height="70"/>&nbsp;
 
